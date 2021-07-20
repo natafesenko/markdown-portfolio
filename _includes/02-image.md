@@ -1,1 +1,1 @@
-![yellow_audi](_includes/yellow_audi.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
